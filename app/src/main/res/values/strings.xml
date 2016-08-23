@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stock DB App</string>
+
+    <string name="header">Filter List by Symbol</string>
+    <string name="some_hint">Enter Symbol</string>
+    <string name="no_stocks">No Stocks</string>
+    <string name="menu_insert">Add Stock</string>
+    <string name="menu_delete">Delete Stock</string>
+    <string name="symbol">Symbol</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="volume">Volume</string>
+    <string name="change">Change</string>
+    <string name="changedir">Change Dir</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_note">Edit Stock</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
